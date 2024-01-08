@@ -1,0 +1,64 @@
+#navdiv{
+    display:flex;
+    width:17%;
+    margin-left: 82%;
+    justify-content: space-around;
+    margin-top: 1%;
+    height:35px;
+  }
+
+  
+  #googleimg{
+    margin-top: 100px;
+  }
+  a{
+    margin-top: 8px;
+    text-decoration: none;
+  }
+  
+  button{
+    border-radius: 3px;
+    height:100%;
+    padding:5px 12px;
+    background-color: #4C87E1 ;
+    color:white;
+    border:none;
+  }
+  #maindiv{
+  width:35%;
+  border-radius: 50px;
+  display: flex;
+  height:40px;
+  border:1px solid lightgrey;
+  }
+  span{
+    vertical-align: top;
+  }  
+  input{
+    height:100%;
+    width:100%;
+    border: none;
+    padding:0px;
+  }
+  #inputspan{
+    width:100%;
+  }
+  section{
+    display: flex;
+    margin-top: 2%;
+    width:23%;
+    justify-content: space-around;
+    margin-bottom: 2%;
+  }
+  section button{
+    padding:10px 12px;
+    background-color: lightgrey;
+    color:black;
+  }
+  
+  a:hover{
+    text-decoration: underline;
+  }
+  button:hover{
+    border: 1px solid gray;
+  }
